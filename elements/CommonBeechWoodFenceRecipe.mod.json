@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CommonBeechWoodFence"
+    },
+    "name": "common_beech_wood_fence_recipe",
+    "namespace": "mod"
+  }
+}

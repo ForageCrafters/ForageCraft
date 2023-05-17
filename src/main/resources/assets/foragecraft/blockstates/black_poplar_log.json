@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "foragecraft:block/black_poplar_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "foragecraft:block/black_poplar_log"
+    },
+    "axis=z": {
+      "model": "foragecraft:block/black_poplar_log",
+      "x": 90
+    }
+  }
+}

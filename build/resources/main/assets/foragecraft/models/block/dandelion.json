@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "foragecraft:blocks/dandelion",
+    "particle": "foragecraft:blocks/dandelion"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "foragecraft:block/campfire"
+    },
+    "facing=east": {
+      "model": "foragecraft:block/campfire",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "foragecraft:block/campfire",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "foragecraft:block/campfire",
+      "y": 270
+    }
+  }
+}

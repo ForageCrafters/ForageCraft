@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/alderwoodlogtop",
+    "up": "foragecraft:blocks/alderwoodlogtop",
+    "north": "foragecraft:blocks/alderwoodlog",
+    "east": "foragecraft:blocks/alderwoodlog",
+    "south": "foragecraft:blocks/alderwoodlog",
+    "west": "foragecraft:blocks/alderwoodlog",
+    "particle": "foragecraft:blocks/alderwoodlogtop"
+  },
+  "render_type": "solid"
+}

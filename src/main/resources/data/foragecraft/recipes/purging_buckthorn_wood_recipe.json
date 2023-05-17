@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:purging_buckthorn_log"
+    },
+    "1": {
+      "item": "foragecraft:purging_buckthorn_log"
+    },
+    "2": {
+      "item": "foragecraft:purging_buckthorn_log"
+    },
+    "3": {
+      "item": "foragecraft:purging_buckthorn_log"
+    }
+  },
+  "result": {
+    "item": "foragecraft:purging_buckthorn_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:english_elm_log"
+    },
+    "1": {
+      "item": "foragecraft:english_elm_log"
+    },
+    "2": {
+      "item": "foragecraft:english_elm_log"
+    },
+    "3": {
+      "item": "foragecraft:english_elm_log"
+    }
+  },
+  "result": {
+    "item": "foragecraft:english_elm_wood",
+    "count": 3
+  }
+}

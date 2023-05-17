@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:yew_planks"
+    },
+    "3": {
+      "item": "foragecraft:yew_planks"
+    },
+    "4": {
+      "item": "foragecraft:yew_planks"
+    },
+    "6": {
+      "item": "foragecraft:yew_planks"
+    },
+    "7": {
+      "item": "foragecraft:yew_planks"
+    },
+    "8": {
+      "item": "foragecraft:yew_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:yew_stairs",
+    "count": 4
+  }
+}

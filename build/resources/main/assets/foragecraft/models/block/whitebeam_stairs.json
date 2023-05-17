@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "foragecraft:blocks/whitebeam_planks",
+    "top": "foragecraft:blocks/whitebeam_planks",
+    "side": "foragecraft:blocks/whitebeam_planks"
+  },
+  "render_type": "solid"
+}

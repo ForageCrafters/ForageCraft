@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "foragecraft:blocks/scotspine_planks",
+    "top": "foragecraft:blocks/scotspine_planks",
+    "side": "foragecraft:blocks/scotspine_planks"
+  },
+  "render_type": "solid"
+}

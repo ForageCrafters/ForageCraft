@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "foragecraft:blocks/rowan_planks",
+    "particle": "foragecraft:blocks/rowan_planks"
+  },
+  "render_type": "solid"
+}

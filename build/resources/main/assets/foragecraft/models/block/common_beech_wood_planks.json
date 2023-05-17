@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/beechwoodtop",
+    "up": "foragecraft:blocks/beechwoodtop",
+    "north": "foragecraft:blocks/beechwoodtop",
+    "east": "foragecraft:blocks/beechwoodtop",
+    "south": "foragecraft:blocks/beechwoodtop",
+    "west": "foragecraft:blocks/beechwoodtop",
+    "particle": "foragecraft:blocks/beechwoodtop"
+  },
+  "render_type": "solid"
+}

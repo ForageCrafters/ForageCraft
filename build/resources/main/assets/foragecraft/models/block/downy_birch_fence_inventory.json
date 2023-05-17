@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "foragecraft:blocks/downybirch_planks",
+    "particle": "foragecraft:blocks/downybirch_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:baywillow_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:bay_willow_planks",
+    "count": 4
+  }
+}

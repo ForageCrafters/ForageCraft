@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "foragecraft:block/dehydrator"
+    },
+    "facing=east": {
+      "model": "foragecraft:block/dehydrator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "foragecraft:block/dehydrator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "foragecraft:block/dehydrator",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/spindle_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/spindle_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/spindle_slab_full"
+    }
+  }
+}

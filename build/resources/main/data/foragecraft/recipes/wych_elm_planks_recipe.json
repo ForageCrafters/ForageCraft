@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:wychelm_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:wych_elm_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "foragecraft:blocks/wychelm_planks",
+    "particle": "foragecraft:blocks/wychelm_planks"
+  },
+  "render_type": "solid"
+}

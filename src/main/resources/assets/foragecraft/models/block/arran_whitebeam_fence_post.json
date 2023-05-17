@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "foragecraft:blocks/arranwhitebeam_planks",
+    "particle": "foragecraft:blocks/arranwhitebeam_planks"
+  },
+  "render_type": "solid"
+}

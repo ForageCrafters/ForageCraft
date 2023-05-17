@@ -1,0 +1,33 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "foragecraft:nettle"
+    },
+    "title": {
+      "translate": "advancements.novice_forager.title"
+    },
+    "description": {
+      "translate": "advancements.novice_forager.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "novice_forager": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "foragecraft:nettle"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

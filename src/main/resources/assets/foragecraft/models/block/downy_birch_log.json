@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/downybirch_log_top",
+    "up": "foragecraft:blocks/downybirch_log_top",
+    "north": "foragecraft:blocks/downybirch_log_side",
+    "east": "foragecraft:blocks/downybirch_log_side",
+    "south": "foragecraft:blocks/downybirch_log_side",
+    "west": "foragecraft:blocks/downybirch_log_side",
+    "particle": "foragecraft:blocks/downybirch_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/downybirch_leaves",
+    "particle": "foragecraft:blocks/downybirch_leaves"
+  }
+}

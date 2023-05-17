@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:yew_planks"
+    },
+    "1": {
+      "item": "foragecraft:yew_planks"
+    },
+    "2": {
+      "item": "foragecraft:yew_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:yew_slab",
+    "count": 6
+  }
+}

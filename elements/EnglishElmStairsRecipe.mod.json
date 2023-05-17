@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EnglishElmPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnglishElmPlanks"
+      },
+      {
+        "value": "CUSTOM:EnglishElmPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnglishElmPlanks"
+      },
+      {
+        "value": "CUSTOM:EnglishElmPlanks"
+      },
+      {
+        "value": "CUSTOM:EnglishElmPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnglishElmStairs"
+    },
+    "name": "english_elm_stairs_recipe",
+    "namespace": "mod"
+  }
+}

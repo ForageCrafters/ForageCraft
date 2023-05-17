@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/purging_buckthorn_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/purging_buckthorn_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/purging_buckthorn_slab_full"
+    }
+  }
+}

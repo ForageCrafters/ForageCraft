@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "foragecraft:blocks/blackwhitebeam_planks",
+    "particle": "foragecraft:blocks/blackwhitebeam_planks"
+  },
+  "render_type": "solid"
+}

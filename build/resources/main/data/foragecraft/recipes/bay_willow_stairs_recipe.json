@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:bay_willow_planks"
+    },
+    "3": {
+      "item": "foragecraft:bay_willow_planks"
+    },
+    "4": {
+      "item": "foragecraft:bay_willow_planks"
+    },
+    "6": {
+      "item": "foragecraft:bay_willow_planks"
+    },
+    "7": {
+      "item": "foragecraft:bay_willow_planks"
+    },
+    "8": {
+      "item": "foragecraft:bay_willow_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:bay_willow_stairs",
+    "count": 4
+  }
+}

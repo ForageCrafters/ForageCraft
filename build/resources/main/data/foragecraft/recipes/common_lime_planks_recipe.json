@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:commonlime_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:common_lime_planks",
+    "count": 4
+  }
+}

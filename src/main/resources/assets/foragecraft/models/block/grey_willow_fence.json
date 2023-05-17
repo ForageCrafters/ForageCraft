@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "foragecraft:blocks/greywillow_planks",
+    "particle": "foragecraft:blocks/greywillow_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/arranwhitebeam_leaves",
+    "particle": "foragecraft:blocks/arranwhitebeam_leaves"
+  }
+}

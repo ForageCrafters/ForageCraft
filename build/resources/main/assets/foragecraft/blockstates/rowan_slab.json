@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/rowan_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/rowan_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/rowan_slab_full"
+    }
+  }
+}

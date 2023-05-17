@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/blackpoplar_leaves",
+    "particle": "foragecraft:blocks/blackpoplar_leaves"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "foragecraft:blocks/birdcherry_planks",
+    "top": "foragecraft:blocks/birdcherry_planks",
+    "side": "foragecraft:blocks/birdcherry_planks"
+  },
+  "render_type": "solid"
+}

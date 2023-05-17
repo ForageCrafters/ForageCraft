@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:greywillow_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:grey_willow_planks",
+    "count": 4
+  }
+}

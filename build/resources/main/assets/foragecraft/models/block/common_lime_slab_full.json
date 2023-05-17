@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "foragecraft:blocks/commonlime_planks",
+    "top": "foragecraft:blocks/commonlime_planks",
+    "side": "foragecraft:blocks/commonlime_planks"
+  },
+  "render_type": "solid"
+}

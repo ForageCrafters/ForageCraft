@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:ash_log"
+    },
+    "1": {
+      "item": "foragecraft:ash_log"
+    },
+    "2": {
+      "item": "foragecraft:ash_log"
+    },
+    "3": {
+      "item": "foragecraft:ash_log"
+    }
+  },
+  "result": {
+    "item": "foragecraft:ash_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:grey_willow_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:grey_willow_button",
+    "count": 1
+  }
+}

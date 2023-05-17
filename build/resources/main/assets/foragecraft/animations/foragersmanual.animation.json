@@ -1,0 +1,167 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"ForagersManual.open": {
+			"animation_length": 2,
+			"bones": {
+				"leftpage": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 77.5, 0]
+						}
+					}
+				},
+				"rightpage": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, -77.5, 0]
+						}
+					}
+				},
+				"book": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [35, 0, 0]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [8, 5, 0]
+						}
+					}
+				}
+			}
+		},
+		"ForagersManual.openidle": {
+			"animation_length": 2,
+			"bones": {
+				"leftpage": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 77.5, 0]
+						},
+						"2.0": {
+							"vector": [0, 77.5, 0]
+						}
+					}
+				},
+				"rightpage": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, -77.5, 0]
+						},
+						"2.0": {
+							"vector": [0, -77.5, 0]
+						}
+					}
+				},
+				"book": {
+					"rotation": {
+						"0.0": {
+							"vector": [35, 0, 0]
+						},
+						"2.0": {
+							"vector": [35, 0, 0]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, -5]
+						},
+						"2.0": {
+							"vector": [0, 0, -5]
+						}
+					}
+				}
+			}
+		},
+		"ForagersManual.close": {
+			"animation_length": 2,
+			"bones": {
+				"leftpage": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 77.5, 0]
+						},
+						"2.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"rightpage": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, -77.5, 0]
+						},
+						"2.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"book": {
+					"rotation": {
+						"0.0": {
+							"vector": [35, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 0, 0]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [8, 5, 0]
+						},
+						"2.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"ForagersManual.idle": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"book": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"1.0": {
+							"vector": [1, 1, 1]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

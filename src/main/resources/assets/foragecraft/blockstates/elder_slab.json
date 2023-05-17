@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/elder_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/elder_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/elder_slab_full"
+    }
+  }
+}

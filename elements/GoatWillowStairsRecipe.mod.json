@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GoatWillowPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoatWillowPlanks"
+      },
+      {
+        "value": "CUSTOM:GoatWillowPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoatWillowPlanks"
+      },
+      {
+        "value": "CUSTOM:GoatWillowPlanks"
+      },
+      {
+        "value": "CUSTOM:GoatWillowPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GoatWillowStairs"
+    },
+    "name": "goat_willow_stairs_recipe",
+    "namespace": "mod"
+  }
+}

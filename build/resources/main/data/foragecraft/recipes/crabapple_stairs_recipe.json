@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:crabapple_planks"
+    },
+    "3": {
+      "item": "foragecraft:crabapple_planks"
+    },
+    "4": {
+      "item": "foragecraft:crabapple_planks"
+    },
+    "6": {
+      "item": "foragecraft:crabapple_planks"
+    },
+    "7": {
+      "item": "foragecraft:crabapple_planks"
+    },
+    "8": {
+      "item": "foragecraft:crabapple_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:crabapple_stairs",
+    "count": 4
+  }
+}

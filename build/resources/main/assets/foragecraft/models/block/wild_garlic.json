@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "foragecraft:blocks/wildgarlic",
+    "particle": "foragecraft:blocks/wildgarlic"
+  },
+  "render_type": "cutout"
+}

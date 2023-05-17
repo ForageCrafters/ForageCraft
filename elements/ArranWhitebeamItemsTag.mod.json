@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ArranWhitebeamWood"
+      },
+      {
+        "value": "CUSTOM:ArranWhitebeamLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "arranwhitebeam_log",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:aspen_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:aspen_planks",
+    "count": 4
+  }
+}

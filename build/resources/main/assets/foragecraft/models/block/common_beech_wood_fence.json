@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "foragecraft:blocks/beechwoodtop",
+    "particle": "foragecraft:blocks/beechwoodtop"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "foragecraft:blocks/ash_planks",
+    "particle": "foragecraft:blocks/ash_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/alderwoodplanks",
+    "up": "foragecraft:blocks/alderwoodplanks",
+    "north": "foragecraft:blocks/alderwoodplanks",
+    "east": "foragecraft:blocks/alderwoodplanks",
+    "south": "foragecraft:blocks/alderwoodplanks",
+    "west": "foragecraft:blocks/alderwoodplanks",
+    "particle": "foragecraft:blocks/alderwoodplanks"
+  },
+  "render_type": "solid"
+}

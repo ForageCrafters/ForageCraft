@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:grey_willow_log"
+    },
+    "1": {
+      "item": "foragecraft:grey_willow_log"
+    },
+    "2": {
+      "item": "foragecraft:grey_willow_log"
+    },
+    "3": {
+      "item": "foragecraft:grey_willow_log"
+    }
+  },
+  "result": {
+    "item": "foragecraft:grey_willow_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "foragecraft:cep",
+    "foragecraft:hemlock",
+    "foragecraft:fly_agaric",
+    "foragecraft:wild_garlic",
+    "foragecraft:dandelion",
+    "foragecraft:parasol_mushroom",
+    "foragecraft:blewit",
+    "foragecraft:wood_sorrel",
+    "foragecraft:chanterelle",
+    "foragecraft:nettle",
+    "foragecraft:puffball"
+  ]
+}

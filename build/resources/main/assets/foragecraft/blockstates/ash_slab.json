@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/ash_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/ash_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/ash_slab_full"
+    }
+  }
+}

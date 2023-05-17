@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlymouthPearPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:PlymouthPearPlanks"
+      },
+      {
+        "value": "CUSTOM:PlymouthPearPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:PlymouthPearPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PlymouthPearFence"
+    },
+    "name": "plymouth_pear_fence_recipe",
+    "namespace": "mod"
+  }
+}

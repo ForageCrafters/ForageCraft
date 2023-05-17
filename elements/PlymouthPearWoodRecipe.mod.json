@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlymouthPearLog"
+      },
+      {
+        "value": "CUSTOM:PlymouthPearLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlymouthPearLog"
+      },
+      {
+        "value": "CUSTOM:PlymouthPearLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PlymouthPearWood"
+    },
+    "name": "plymouth_pear_wood_recipe",
+    "namespace": "mod"
+  }
+}

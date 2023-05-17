@@ -1,0 +1,9 @@
+{
+  "parent": "foragecraft:custom/pot",
+  "textures": {
+    "all": "foragecraft:blocks/pot",
+    "particle": "foragecraft:blocks/pot",
+    "0": "foragecraft:blocks/pot"
+  },
+  "render_type": "solid"
+}

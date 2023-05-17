@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "foragecraft:blocks/beechwoodtop"
+  },
+  "render_type": "solid"
+}

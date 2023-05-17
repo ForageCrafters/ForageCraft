@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "foragecraft:blocks/greywillow_planks",
+    "top": "foragecraft:blocks/greywillow_planks",
+    "side": "foragecraft:blocks/greywillow_planks"
+  },
+  "render_type": "solid"
+}

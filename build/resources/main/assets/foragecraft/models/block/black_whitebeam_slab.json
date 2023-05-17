@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "foragecraft:blocks/blackwhitebeam_planks",
+    "top": "foragecraft:blocks/blackwhitebeam_planks",
+    "side": "foragecraft:blocks/blackwhitebeam_planks"
+  },
+  "render_type": "solid"
+}

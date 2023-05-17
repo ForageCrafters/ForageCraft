@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "foragecraft:blocks/beechwoodtop"
+  },
+  "render_type": "solid"
+}

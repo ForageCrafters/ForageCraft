@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:downybirch_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:downy_birch_planks",
+    "count": 4
+  }
+}

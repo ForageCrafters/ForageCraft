@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:common_lime_planks"
+    },
+    "3": {
+      "item": "foragecraft:common_lime_planks"
+    },
+    "4": {
+      "item": "foragecraft:common_lime_planks"
+    },
+    "6": {
+      "item": "foragecraft:common_lime_planks"
+    },
+    "7": {
+      "item": "foragecraft:common_lime_planks"
+    },
+    "8": {
+      "item": "foragecraft:common_lime_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:common_lime_stairs",
+    "count": 4
+  }
+}

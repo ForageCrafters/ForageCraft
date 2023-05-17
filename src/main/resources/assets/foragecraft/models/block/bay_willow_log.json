@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/baywillow_log_top",
+    "up": "foragecraft:blocks/baywillow_log_top",
+    "north": "foragecraft:blocks/baywillow_log_side",
+    "east": "foragecraft:blocks/baywillow_log_side",
+    "south": "foragecraft:blocks/baywillow_log_side",
+    "west": "foragecraft:blocks/baywillow_log_side",
+    "particle": "foragecraft:blocks/baywillow_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/goatwillow_planks",
+    "particle": "foragecraft:blocks/goatwillow_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WychElmPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:WychElmPlanks"
+      },
+      {
+        "value": "CUSTOM:WychElmPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:WychElmPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WychElmFence"
+    },
+    "name": "wych_elm_fence_recipe",
+    "namespace": "mod"
+  }
+}

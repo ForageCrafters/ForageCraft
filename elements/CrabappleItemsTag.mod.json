@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CrabappleWood"
+      },
+      {
+        "value": "CUSTOM:CrabappleLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "crabapple_log",
+    "namespace": "forge"
+  }
+}

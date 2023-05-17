@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:plymouth_pear_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:plymouth_pear_button",
+    "count": 1
+  }
+}

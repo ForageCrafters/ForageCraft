@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/common_beech_wood_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/common_beech_wood_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/common_beech_wood_slab_full"
+    }
+  }
+}

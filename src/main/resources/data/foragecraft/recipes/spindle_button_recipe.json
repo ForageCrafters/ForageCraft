@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:spindle_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:spindle_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:juniper_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:juniper_planks",
+    "count": 4
+  }
+}

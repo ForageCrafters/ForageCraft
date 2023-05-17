@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PurgingBuckthornLog"
+      },
+      {
+        "value": "CUSTOM:PurgingBuckthornLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurgingBuckthornLog"
+      },
+      {
+        "value": "CUSTOM:PurgingBuckthornLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PurgingBuckthornWood"
+    },
+    "name": "purging_buckthorn_wood_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "foragecraft:blocks/rowan_planks",
+    "top": "foragecraft:blocks/rowan_planks",
+    "side": "foragecraft:blocks/rowan_planks"
+  },
+  "render_type": "solid"
+}

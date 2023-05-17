@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BayWillowPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BayWillowPlanks"
+      },
+      {
+        "value": "CUSTOM:BayWillowPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BayWillowPlanks"
+      },
+      {
+        "value": "CUSTOM:BayWillowPlanks"
+      },
+      {
+        "value": "CUSTOM:BayWillowPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BayWillowStairs"
+    },
+    "name": "bay_willow_stairs_recipe",
+    "namespace": "mod"
+  }
+}

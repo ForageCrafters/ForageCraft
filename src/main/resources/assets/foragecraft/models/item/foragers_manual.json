@@ -1,0 +1,6 @@
+{
+  "parent": "foragecraft:displaysettings/foragersmanual.item",
+  "textures": {
+    "layer0": "foragecraft:items/foragersmanual"
+  }
+}

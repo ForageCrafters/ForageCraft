@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/crabapple_leaves",
+    "particle": "foragecraft:blocks/crabapple_leaves"
+  }
+}

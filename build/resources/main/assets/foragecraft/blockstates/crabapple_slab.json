@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/crabapple_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/crabapple_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/crabapple_slab_full"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/whitebeam_log_top",
+    "up": "foragecraft:blocks/whitebeam_log_top",
+    "north": "foragecraft:blocks/whitebeam_log_side",
+    "east": "foragecraft:blocks/whitebeam_log_side",
+    "south": "foragecraft:blocks/whitebeam_log_side",
+    "west": "foragecraft:blocks/whitebeam_log_side",
+    "particle": "foragecraft:blocks/whitebeam_log_top"
+  },
+  "render_type": "solid"
+}

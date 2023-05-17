@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/scots_pine_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/scots_pine_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/scots_pine_slab_full"
+    }
+  }
+}

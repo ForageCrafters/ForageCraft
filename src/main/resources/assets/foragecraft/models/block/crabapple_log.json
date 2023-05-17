@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/crabapple_log_top",
+    "up": "foragecraft:blocks/crabapple_log_top",
+    "north": "foragecraft:blocks/crabapple_log_side",
+    "east": "foragecraft:blocks/crabapple_log_side",
+    "south": "foragecraft:blocks/crabapple_log_side",
+    "west": "foragecraft:blocks/crabapple_log_side",
+    "particle": "foragecraft:blocks/crabapple_log_top"
+  },
+  "render_type": "solid"
+}

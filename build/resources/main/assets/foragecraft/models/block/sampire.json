@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "foragecraft:blocks/samphire",
+    "particle": "foragecraft:blocks/samphire"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "foragecraft:blocks/beechsapling",
+    "particle": "foragecraft:blocks/beechsapling"
+  },
+  "render_type": "cutout"
+}

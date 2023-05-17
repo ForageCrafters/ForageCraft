@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "ForageCraft Tools",
+    "icon": {
+      "value": "CUSTOM:ForagersIngot"
+    },
+    "showSearch": false
+  }
+}

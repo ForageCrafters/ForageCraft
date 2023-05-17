@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:wild_cherry_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:wild_cherry_button",
+    "count": 1
+  }
+}

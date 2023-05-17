@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:common_beech_wood_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "foragecraft:common_beech_wood_planks"
+    },
+    "3": {
+      "item": "foragecraft:common_beech_wood_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "foragecraft:common_beech_wood_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:common_beech_wood_fence",
+    "count": 3
+  }
+}

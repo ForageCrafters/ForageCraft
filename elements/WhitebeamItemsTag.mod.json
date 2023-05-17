@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WhitebeamWood"
+      },
+      {
+        "value": "CUSTOM:WhitebeamLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "whitebeam_log",
+    "namespace": "forge"
+  }
+}

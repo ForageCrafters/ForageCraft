@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:CommonBeechWoodLog"
+      },
+      {
+        "value": "CUSTOM:Hawthornlog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "foragecraft:blocks/purgingbuckthorn_planks",
+    "top": "foragecraft:blocks/purgingbuckthorn_planks",
+    "side": "foragecraft:blocks/purgingbuckthorn_planks"
+  },
+  "render_type": "solid"
+}

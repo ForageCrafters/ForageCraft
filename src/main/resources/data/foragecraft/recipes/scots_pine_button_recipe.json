@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:scots_pine_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:scots_pine_button",
+    "count": 1
+  }
+}

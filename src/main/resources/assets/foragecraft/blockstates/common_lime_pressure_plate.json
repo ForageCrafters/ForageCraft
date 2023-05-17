@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "foragecraft:block/common_lime_pressure_plate"
+    },
+    "powered=true": {
+      "model": "foragecraft:block/common_lime_pressure_plate_down"
+    }
+  }
+}

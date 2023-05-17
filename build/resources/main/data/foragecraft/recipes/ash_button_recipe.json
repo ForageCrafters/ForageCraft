@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:ash_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:ash_button",
+    "count": 1
+  }
+}

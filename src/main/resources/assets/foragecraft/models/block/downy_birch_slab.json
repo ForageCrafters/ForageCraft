@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "foragecraft:blocks/downybirch_planks",
+    "top": "foragecraft:blocks/downybirch_planks",
+    "side": "foragecraft:blocks/downybirch_planks"
+  },
+  "render_type": "solid"
+}

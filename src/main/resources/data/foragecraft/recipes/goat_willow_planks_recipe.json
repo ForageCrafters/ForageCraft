@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:goatwillow_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:goat_willow_planks",
+    "count": 4
+  }
+}

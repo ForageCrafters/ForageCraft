@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "foragecraft:blocks/aspen_planks",
+    "top": "foragecraft:blocks/aspen_planks",
+    "side": "foragecraft:blocks/aspen_planks"
+  },
+  "render_type": "solid"
+}

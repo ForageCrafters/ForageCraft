@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EnglishElmWood"
+      },
+      {
+        "value": "CUSTOM:EnglishElmLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "englishelm_log",
+    "namespace": "forge"
+  }
+}

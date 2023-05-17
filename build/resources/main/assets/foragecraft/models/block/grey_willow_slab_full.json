@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "foragecraft:blocks/greywillow_planks",
+    "top": "foragecraft:blocks/greywillow_planks",
+    "side": "foragecraft:blocks/greywillow_planks"
+  },
+  "render_type": "solid"
+}

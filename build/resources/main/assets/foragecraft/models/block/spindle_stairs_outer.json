@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "foragecraft:blocks/spindle_planks",
+    "top": "foragecraft:blocks/spindle_planks",
+    "side": "foragecraft:blocks/spindle_planks"
+  },
+  "render_type": "solid"
+}

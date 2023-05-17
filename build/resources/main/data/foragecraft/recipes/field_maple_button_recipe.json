@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:field_maple_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:field_maple_button",
+    "count": 1
+  }
+}

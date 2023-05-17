@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "foragecraft:blocks/crabapple_planks",
+    "top": "foragecraft:blocks/crabapple_planks",
+    "side": "foragecraft:blocks/crabapple_planks"
+  },
+  "render_type": "solid"
+}

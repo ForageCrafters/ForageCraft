@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/blackpoplar_log_top",
+    "up": "foragecraft:blocks/blackpoplar_log_top",
+    "north": "foragecraft:blocks/blackpoplar_log_side",
+    "east": "foragecraft:blocks/blackpoplar_log_side",
+    "south": "foragecraft:blocks/blackpoplar_log_side",
+    "west": "foragecraft:blocks/blackpoplar_log_side",
+    "particle": "foragecraft:blocks/blackpoplar_log_top"
+  },
+  "render_type": "solid"
+}

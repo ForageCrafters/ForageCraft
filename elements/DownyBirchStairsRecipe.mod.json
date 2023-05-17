@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DownyBirchPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DownyBirchPlanks"
+      },
+      {
+        "value": "CUSTOM:DownyBirchPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DownyBirchPlanks"
+      },
+      {
+        "value": "CUSTOM:DownyBirchPlanks"
+      },
+      {
+        "value": "CUSTOM:DownyBirchPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DownyBirchStairs"
+    },
+    "name": "downy_birch_stairs_recipe",
+    "namespace": "mod"
+  }
+}

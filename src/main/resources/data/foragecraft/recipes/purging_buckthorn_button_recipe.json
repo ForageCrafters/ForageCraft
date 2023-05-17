@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:purging_buckthorn_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:purging_buckthorn_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/hawthornlogtop",
+    "up": "foragecraft:blocks/hawthornlogtop",
+    "north": "foragecraft:blocks/hawthornlog",
+    "east": "foragecraft:blocks/hawthornlog",
+    "south": "foragecraft:blocks/hawthornlog",
+    "west": "foragecraft:blocks/hawthornlog",
+    "particle": "foragecraft:blocks/hawthornlogtop"
+  },
+  "render_type": "solid"
+}

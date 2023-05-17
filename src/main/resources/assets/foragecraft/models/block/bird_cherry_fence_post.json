@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "foragecraft:blocks/birdcherry_planks",
+    "particle": "foragecraft:blocks/birdcherry_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:yew_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:yew_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "foragecraft:blocks/juniper_planks",
+    "top": "foragecraft:blocks/juniper_planks",
+    "side": "foragecraft:blocks/juniper_planks"
+  },
+  "render_type": "solid"
+}

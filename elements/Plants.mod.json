@@ -1,0 +1,48 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Dandelion"
+      },
+      {
+        "value": "CUSTOM:Nettle"
+      },
+      {
+        "value": "CUSTOM:WildGarlic"
+      },
+      {
+        "value": "CUSTOM:WoodSorrel"
+      },
+      {
+        "value": "CUSTOM:Hemlock"
+      },
+      {
+        "value": "CUSTOM:Cep"
+      },
+      {
+        "value": "CUSTOM:Blewit"
+      },
+      {
+        "value": "CUSTOM:Puffball"
+      },
+      {
+        "value": "CUSTOM:Chanterelle"
+      },
+      {
+        "value": "CUSTOM:ParasolMushroom"
+      },
+      {
+        "value": "CUSTOM:FlyAgaric"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "plants",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/hawthornplanks",
+    "up": "foragecraft:blocks/hawthornplanks",
+    "north": "foragecraft:blocks/hawthornplanks",
+    "east": "foragecraft:blocks/hawthornplanks",
+    "south": "foragecraft:blocks/hawthornplanks",
+    "west": "foragecraft:blocks/hawthornplanks",
+    "particle": "foragecraft:blocks/hawthornplanks"
+  },
+  "render_type": "solid"
+}

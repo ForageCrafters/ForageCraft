@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/juniper_log_side",
+    "particle": "foragecraft:blocks/juniper_log_side"
+  },
+  "render_type": "solid"
+}

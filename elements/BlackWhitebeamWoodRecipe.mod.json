@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackWhitebeamLog"
+      },
+      {
+        "value": "CUSTOM:BlackWhitebeamLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlackWhitebeamLog"
+      },
+      {
+        "value": "CUSTOM:BlackWhitebeamLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlackWhitebeamWood"
+    },
+    "name": "black_whitebeam_wood_recipe",
+    "namespace": "mod"
+  }
+}

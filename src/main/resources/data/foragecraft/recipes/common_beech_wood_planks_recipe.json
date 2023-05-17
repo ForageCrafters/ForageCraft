@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:common_beech_wood_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:common_beech_wood_planks",
+    "count": 4
+  }
+}

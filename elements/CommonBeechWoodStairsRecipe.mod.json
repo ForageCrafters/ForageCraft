@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:CommonBeechWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CommonBeechWoodStairs"
+    },
+    "name": "common_beech_wood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

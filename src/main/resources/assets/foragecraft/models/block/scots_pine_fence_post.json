@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "foragecraft:blocks/scotspine_planks",
+    "particle": "foragecraft:blocks/scotspine_planks"
+  },
+  "render_type": "solid"
+}

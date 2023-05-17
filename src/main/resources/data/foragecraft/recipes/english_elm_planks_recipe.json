@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:englishelm_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:english_elm_planks",
+    "count": 4
+  }
+}

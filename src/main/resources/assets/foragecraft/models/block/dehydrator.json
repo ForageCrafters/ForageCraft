@@ -1,0 +1,9 @@
+{
+  "parent": "foragecraft:custom/dehydrator",
+  "textures": {
+    "all": "foragecraft:blocks/dehydratoricon",
+    "particle": "foragecraft:blocks/dehydratoricon",
+    "1": "foragecraft:blocks/dehydrator"
+  },
+  "render_type": "cutout_mipped"
+}

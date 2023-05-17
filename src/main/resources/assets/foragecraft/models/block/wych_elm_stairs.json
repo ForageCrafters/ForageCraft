@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "foragecraft:blocks/wychelm_planks",
+    "top": "foragecraft:blocks/wychelm_planks",
+    "side": "foragecraft:blocks/wychelm_planks"
+  },
+  "render_type": "solid"
+}

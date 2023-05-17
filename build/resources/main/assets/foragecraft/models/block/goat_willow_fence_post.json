@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "foragecraft:blocks/goatwillow_planks",
+    "particle": "foragecraft:blocks/goatwillow_planks"
+  },
+  "render_type": "solid"
+}

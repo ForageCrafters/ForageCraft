@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/downy_birch_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/downy_birch_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/downy_birch_slab_full"
+    }
+  }
+}

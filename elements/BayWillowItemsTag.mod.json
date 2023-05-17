@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BayWillowWood"
+      },
+      {
+        "value": "CUSTOM:BayWillowLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "baywillow_log",
+    "namespace": "forge"
+  }
+}

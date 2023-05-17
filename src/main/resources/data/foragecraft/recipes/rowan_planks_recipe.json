@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rowan_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:rowan_planks",
+    "count": 4
+  }
+}

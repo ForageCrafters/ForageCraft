@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "foragecraft:blocks/elder_planks",
+    "top": "foragecraft:blocks/elder_planks",
+    "side": "foragecraft:blocks/elder_planks"
+  },
+  "render_type": "solid"
+}

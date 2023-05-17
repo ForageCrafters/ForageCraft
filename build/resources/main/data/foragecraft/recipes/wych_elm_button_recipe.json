@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:wych_elm_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:wych_elm_button",
+    "count": 1
+  }
+}

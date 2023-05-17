@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "foragecraft:block/field_maple_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "foragecraft:block/field_maple_log"
+    },
+    "axis=z": {
+      "model": "foragecraft:block/field_maple_log",
+      "x": 90
+    }
+  }
+}

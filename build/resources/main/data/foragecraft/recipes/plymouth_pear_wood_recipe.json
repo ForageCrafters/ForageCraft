@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:plymouth_pear_log"
+    },
+    "1": {
+      "item": "foragecraft:plymouth_pear_log"
+    },
+    "2": {
+      "item": "foragecraft:plymouth_pear_log"
+    },
+    "3": {
+      "item": "foragecraft:plymouth_pear_log"
+    }
+  },
+  "result": {
+    "item": "foragecraft:plymouth_pear_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:HornbeamWood"
+      },
+      {
+        "value": "CUSTOM:HornbeamLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "hornbeam_log",
+    "namespace": "forge"
+  }
+}

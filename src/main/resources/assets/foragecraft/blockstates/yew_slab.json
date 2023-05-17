@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/yew_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/yew_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/yew_slab_full"
+    }
+  }
+}

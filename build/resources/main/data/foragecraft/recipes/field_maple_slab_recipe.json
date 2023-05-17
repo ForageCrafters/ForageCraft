@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:field_maple_planks"
+    },
+    "1": {
+      "item": "foragecraft:field_maple_planks"
+    },
+    "2": {
+      "item": "foragecraft:field_maple_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:field_maple_slab",
+    "count": 6
+  }
+}

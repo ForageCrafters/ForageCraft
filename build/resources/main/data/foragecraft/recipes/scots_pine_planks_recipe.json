@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:scotspine_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:scots_pine_planks",
+    "count": 4
+  }
+}

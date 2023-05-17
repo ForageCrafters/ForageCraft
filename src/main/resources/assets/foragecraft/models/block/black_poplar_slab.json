@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "foragecraft:blocks/blackpoplar_planks",
+    "top": "foragecraft:blocks/blackpoplar_planks",
+    "side": "foragecraft:blocks/blackpoplar_planks"
+  },
+  "render_type": "solid"
+}

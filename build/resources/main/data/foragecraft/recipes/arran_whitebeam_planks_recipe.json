@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:arranwhitebeam_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:arran_whitebeam_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/rowan_planks",
+    "particle": "foragecraft:blocks/rowan_planks"
+  },
+  "render_type": "solid"
+}

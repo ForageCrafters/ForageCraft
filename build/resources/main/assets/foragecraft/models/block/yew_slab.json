@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "foragecraft:blocks/yew_planks",
+    "top": "foragecraft:blocks/yew_planks",
+    "side": "foragecraft:blocks/yew_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:juniper_log"
+    },
+    "1": {
+      "item": "foragecraft:juniper_log"
+    },
+    "2": {
+      "item": "foragecraft:juniper_log"
+    },
+    "3": {
+      "item": "foragecraft:juniper_log"
+    }
+  },
+  "result": {
+    "item": "foragecraft:juniper_wood",
+    "count": 3
+  }
+}

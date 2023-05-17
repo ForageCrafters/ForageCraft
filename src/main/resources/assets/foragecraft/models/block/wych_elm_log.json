@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/wychelm_log_top",
+    "up": "foragecraft:blocks/wychelm_log_top",
+    "north": "foragecraft:blocks/wychelm_log_side",
+    "east": "foragecraft:blocks/wychelm_log_side",
+    "south": "foragecraft:blocks/wychelm_log_side",
+    "west": "foragecraft:blocks/wychelm_log_side",
+    "particle": "foragecraft:blocks/wychelm_log_top"
+  },
+  "render_type": "solid"
+}

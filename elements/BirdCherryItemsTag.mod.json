@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BirdCherryWood"
+      },
+      {
+        "value": "CUSTOM:BirdCherryLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "birdcherry_log",
+    "namespace": "forge"
+  }
+}

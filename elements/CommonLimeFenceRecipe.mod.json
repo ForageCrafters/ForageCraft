@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CommonLimePlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:CommonLimePlanks"
+      },
+      {
+        "value": "CUSTOM:CommonLimePlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:CommonLimePlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CommonLimeFence"
+    },
+    "name": "common_lime_fence_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/goatwillow_log_top",
+    "up": "foragecraft:blocks/goatwillow_log_top",
+    "north": "foragecraft:blocks/goatwillow_log_side",
+    "east": "foragecraft:blocks/goatwillow_log_side",
+    "south": "foragecraft:blocks/goatwillow_log_side",
+    "west": "foragecraft:blocks/goatwillow_log_side",
+    "particle": "foragecraft:blocks/goatwillow_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    },
+    "3": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    },
+    "4": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    },
+    "6": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    },
+    "7": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    },
+    "8": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:purging_buckthorn_stairs",
+    "count": 4
+  }
+}

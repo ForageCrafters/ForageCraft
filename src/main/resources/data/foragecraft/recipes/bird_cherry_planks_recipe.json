@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:birdcherry_log"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:bird_cherry_planks",
+    "count": 4
+  }
+}

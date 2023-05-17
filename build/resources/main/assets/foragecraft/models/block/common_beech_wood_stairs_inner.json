@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "foragecraft:blocks/beechwoodtop",
+    "top": "foragecraft:blocks/beechwoodtop",
+    "side": "foragecraft:blocks/beechwoodtop"
+  },
+  "render_type": "solid"
+}

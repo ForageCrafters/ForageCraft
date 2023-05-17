@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:crabapple_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:crabapple_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "foragecraft:custom/campfire",
+  "textures": {
+    "all": "foragecraft:blocks/campfireicon",
+    "particle": "foragecraft:blocks/campfireicon",
+    "1": "foragecraft:blocks/campfire"
+  },
+  "render_type": "solid"
+}

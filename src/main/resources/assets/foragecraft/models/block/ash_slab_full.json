@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "foragecraft:blocks/ash_planks",
+    "top": "foragecraft:blocks/ash_planks",
+    "side": "foragecraft:blocks/ash_planks"
+  },
+  "render_type": "solid"
+}

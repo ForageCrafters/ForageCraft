@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "foragecraft:block/downy_birch_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "foragecraft:block/downy_birch_log"
+    },
+    "axis=z": {
+      "model": "foragecraft:block/downy_birch_log",
+      "x": 90
+    }
+  }
+}

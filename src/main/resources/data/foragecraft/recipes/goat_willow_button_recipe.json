@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foragecraft:goat_willow_planks"
+    }
+  ],
+  "result": {
+    "item": "foragecraft:goat_willow_button",
+    "count": 1
+  }
+}

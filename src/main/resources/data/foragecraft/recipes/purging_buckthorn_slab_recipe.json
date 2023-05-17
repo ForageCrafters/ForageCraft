@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    },
+    "1": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    },
+    "2": {
+      "item": "foragecraft:purging_buckthorn_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:purging_buckthorn_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/greywillow_log_side",
+    "particle": "foragecraft:blocks/greywillow_log_side"
+  },
+  "render_type": "solid"
+}

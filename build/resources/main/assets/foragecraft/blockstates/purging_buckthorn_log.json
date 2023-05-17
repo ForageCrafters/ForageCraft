@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "foragecraft:block/purging_buckthorn_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "foragecraft:block/purging_buckthorn_log"
+    },
+    "axis=z": {
+      "model": "foragecraft:block/purging_buckthorn_log",
+      "x": 90
+    }
+  }
+}

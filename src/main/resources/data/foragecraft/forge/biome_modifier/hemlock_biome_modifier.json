@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "foragecraft:hemlock",
+  "step": "vegetal_decoration"
+}

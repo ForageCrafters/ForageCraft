@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "foragecraft:blocks/hawthornsapling",
+    "particle": "foragecraft:blocks/hawthornsapling"
+  },
+  "render_type": "cutout"
+}

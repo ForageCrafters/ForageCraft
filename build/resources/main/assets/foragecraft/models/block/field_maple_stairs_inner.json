@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "foragecraft:blocks/fieldmaple_planks",
+    "top": "foragecraft:blocks/fieldmaple_planks",
+    "side": "foragecraft:blocks/fieldmaple_planks"
+  },
+  "render_type": "solid"
+}

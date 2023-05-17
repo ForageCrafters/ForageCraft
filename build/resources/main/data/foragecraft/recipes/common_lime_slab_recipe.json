@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:common_lime_planks"
+    },
+    "1": {
+      "item": "foragecraft:common_lime_planks"
+    },
+    "2": {
+      "item": "foragecraft:common_lime_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:common_lime_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WildCherryPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WildCherryPlanks"
+      },
+      {
+        "value": "CUSTOM:WildCherryPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WildCherryPlanks"
+      },
+      {
+        "value": "CUSTOM:WildCherryPlanks"
+      },
+      {
+        "value": "CUSTOM:WildCherryPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WildCherryStairs"
+    },
+    "name": "wild_cherry_stairs_recipe",
+    "namespace": "mod"
+  }
+}

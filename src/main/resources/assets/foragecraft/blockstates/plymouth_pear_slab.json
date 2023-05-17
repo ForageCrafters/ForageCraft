@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/plymouth_pear_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/plymouth_pear_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/plymouth_pear_slab_full"
+    }
+  }
+}

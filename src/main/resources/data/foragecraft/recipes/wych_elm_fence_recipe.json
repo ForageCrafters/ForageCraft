@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "foragecraft:wych_elm_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "foragecraft:wych_elm_planks"
+    },
+    "3": {
+      "item": "foragecraft:wych_elm_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "foragecraft:wych_elm_planks"
+    }
+  },
+  "result": {
+    "item": "foragecraft:wych_elm_fence",
+    "count": 3
+  }
+}

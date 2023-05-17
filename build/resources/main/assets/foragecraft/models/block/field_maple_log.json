@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foragecraft:blocks/fieldmaple_log_top",
+    "up": "foragecraft:blocks/fieldmaple_log_top",
+    "north": "foragecraft:blocks/fieldmaple_log_side",
+    "east": "foragecraft:blocks/fieldmaple_log_side",
+    "south": "foragecraft:blocks/fieldmaple_log_side",
+    "west": "foragecraft:blocks/fieldmaple_log_side",
+    "particle": "foragecraft:blocks/fieldmaple_log_top"
+  },
+  "render_type": "solid"
+}

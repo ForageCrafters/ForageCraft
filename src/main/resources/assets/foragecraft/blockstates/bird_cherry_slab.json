@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "foragecraft:block/bird_cherry_slab"
+    },
+    "type=top": {
+      "model": "foragecraft:block/bird_cherry_slab_top"
+    },
+    "type=double": {
+      "model": "foragecraft:block/bird_cherry_slab_full"
+    }
+  }
+}

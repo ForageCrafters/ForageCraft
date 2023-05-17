@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RowanLog"
+      },
+      {
+        "value": "CUSTOM:RowanLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RowanLog"
+      },
+      {
+        "value": "CUSTOM:RowanLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RowanWood"
+    },
+    "name": "rowan_wood_recipe",
+    "namespace": "mod"
+  }
+}

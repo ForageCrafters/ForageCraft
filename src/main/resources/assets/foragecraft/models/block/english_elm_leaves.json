@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foragecraft:blocks/englishelm_leaves",
+    "particle": "foragecraft:blocks/englishelm_leaves"
+  }
+}
