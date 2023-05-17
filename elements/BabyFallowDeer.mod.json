@@ -4,8 +4,8 @@
   "definition": {
     "mobName": "Baby Fallow Deer",
     "mobLabel": "",
-    "mobModelName": "ModelFallowDeer",
-    "mobModelTexture": "babyfallowdeertexture.png",
+    "mobModelName": "ModelBabyFallowDeer",
+    "mobModelTexture": "babyfallowdeer.png",
     "mobModelGlowTexture": "",
     "solidBoundingBox": {
       "fixedValue": false

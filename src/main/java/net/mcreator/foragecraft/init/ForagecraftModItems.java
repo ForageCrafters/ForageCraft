@@ -330,6 +330,7 @@ public class ForagecraftModItems {
 	public static final RegistryObject<Item> ROBIN_SPAWN_EGG = REGISTRY.register("robin_spawn_egg", () -> new ForgeSpawnEggItem(ForagecraftModEntities.ROBIN, -1, -1, new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 	public static final RegistryObject<Item> ALDER_LEAVES = block(ForagecraftModBlocks.ALDER_LEAVES, ForagecraftModTabs.TAB_FORAGE_CRAFT_PLANTS);
 	public static final RegistryObject<Item> ALDER_WOOD_PLANKS = block(ForagecraftModBlocks.ALDER_WOOD_PLANKS, ForagecraftModTabs.TAB_FORAGE_CRAFT_PLANTS);
+	public static final RegistryObject<Item> FALLOW_DEER_SPAWN_EGG = REGISTRY.register("fallow_deer_spawn_egg", () -> new ForgeSpawnEggItem(ForagecraftModEntities.FALLOW_DEER, -1, -1, new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
