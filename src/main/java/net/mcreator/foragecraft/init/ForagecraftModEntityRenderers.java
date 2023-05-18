@@ -9,6 +9,7 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.api.distmarker.Dist;
 
+import net.mcreator.foragecraft.client.renderer.TestRenderer;
 import net.mcreator.foragecraft.client.renderer.RobinRenderer;
 import net.mcreator.foragecraft.client.renderer.RedSquirrelRenderer;
 import net.mcreator.foragecraft.client.renderer.MyceRenderer;
@@ -26,5 +27,6 @@ public class ForagecraftModEntityRenderers {
 		event.registerEntityRenderer(ForagecraftModEntities.RED_SQUIRREL.get(), RedSquirrelRenderer::new);
 		event.registerEntityRenderer(ForagecraftModEntities.ROBIN.get(), RobinRenderer::new);
 		event.registerEntityRenderer(ForagecraftModEntities.FALLOW_DEER.get(), FallowDeerRenderer::new);
+		event.registerEntityRenderer(ForagecraftModEntities.TEST.get(), TestRenderer::new);
 	}
 }

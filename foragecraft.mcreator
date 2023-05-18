@@ -9678,6 +9678,46 @@
         ]
       },
       "path": "~/Mobs"
+    },
+    {
+      "name": "Test",
+      "type": "animatedentity",
+      "sortid": 659,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/foragecraft/models/item/test_spawn_egg.json",
+          "src/main/java/net/mcreator/foragecraft/entity/TestEntity.java",
+          "src/main/resources/data/foragecraft/forge/biome_modifier/test_biome_modifier.json",
+          "src/main/java/net/mcreator/foragecraft/client/renderer/TestRenderer.java",
+          "src/main/java/net/mcreator/foragecraft/entity/model/TestModel.java"
+        ]
+      }
+    },
+    {
+      "name": "TestDeerEat",
+      "type": "procedure",
+      "sortid": 660,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_deer_eat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/foragecraft/procedures/TestDeerEatProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -9688,9 +9728,9 @@
       "block.foragecraft.yew_pressure_plate": "Yew Pressure Plate",
       "block.foragecraft.ash_stairs": "Ash Stairs",
       "block.foragecraft.arran_whitebeam_stairs": "ArranWhitebeam Stairs",
-      "block.foragecraft.common_lime_wood": "CommonLime Wood",
-      "block.foragecraft.wych_elm_planks": "WychElm Planks",
       "block.foragecraft.field_maple_planks": "FieldMaple Planks",
+      "block.foragecraft.wych_elm_planks": "WychElm Planks",
+      "block.foragecraft.common_lime_wood": "CommonLime Wood",
       "block.foragecraft.rowan_wood": "Rowan Wood",
       "block.foragecraft.hawthornplank": "Hawthornplank",
       "item.foragecraft.myce_spawn_egg": "Myce Spawn Egg",
@@ -9844,6 +9884,7 @@
       "block.foragecraft.wild_cherry_wood": "WildCherry Wood",
       "block.foragecraft.whitebeam_pressure_plate": "Whitebeam Pressure Plate",
       "block.foragecraft.rowan_stairs": "Rowan Stairs",
+      "entity.foragecraft.test": "Test",
       "item.foragecraft.red_squirrel_spawn_egg": "Red Squirrel Spawn Egg",
       "block.foragecraft.wild_cherry_fence": "WildCherry Fence",
       "block.foragecraft.common_beech_wood_trapdoor": "Common Beech Wood Trapdoor",
@@ -9868,6 +9909,7 @@
       "gui.foragecraft.wicker_basket_gui.label_wicker_basket": "Wicker Basket",
       "block.foragecraft.crabapple_pressure_plate": "Crabapple Pressure Plate",
       "block.foragecraft.hornbeam_fence_gate": "Hornbeam Fence Gate",
+      "item.foragecraft.test_spawn_egg": "Test Spawn Egg",
       "block.foragecraft.downy_birch_wood": "DownyBirch Wood",
       "block.foragecraft.purging_buckthorn_pressure_plate": "PurgingBuckthorn Pressure Plate",
       "block.foragecraft.ash_leaves": "Ash Leaves",

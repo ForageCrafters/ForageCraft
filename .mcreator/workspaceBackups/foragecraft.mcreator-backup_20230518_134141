@@ -9661,6 +9661,23 @@
         ]
       },
       "path": "~/Trees/Alder"
+    },
+    {
+      "name": "FallowDeer",
+      "type": "livingentity",
+      "sortid": 658,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fallow_deer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/foragecraft/forge/biome_modifier/fallow_deer_biome_modifier.json",
+          "src/main/java/net/mcreator/foragecraft/entity/FallowDeerEntity.java",
+          "src/main/resources/assets/foragecraft/models/item/fallow_deer_spawn_egg.json",
+          "src/main/java/net/mcreator/foragecraft/client/renderer/FallowDeerRenderer.java"
+        ]
+      },
+      "path": "~/Mobs"
     }
   ],
   "variable_elements": [],
@@ -9708,6 +9725,7 @@
       "block.foragecraft.wych_elm_fence": "WychElm Fence",
       "block.foragecraft.downy_birch_fence_gate": "DownyBirch Fence Gate",
       "block.foragecraft.goat_willow_fence": "GoatWillow Fence",
+      "item.foragecraft.fallow_deer_spawn_egg": "Fallow Deer Spawn Egg",
       "block.foragecraft.wild_cherry_button": "WildCherry Button",
       "block.foragecraft.spindle_slab": "Spindle Slab",
       "block.foragecraft.yew_fence_gate": "Yew Fence Gate",
@@ -9908,6 +9926,7 @@
       "block.foragecraft.bay_willow_log": "BayWillow Log",
       "block.foragecraft.aspen_button": "Aspen Button",
       "block.foragecraft.plymouth_pear_planks": "PlymouthPear Planks",
+      "entity.foragecraft.fallow_deer": "Fallow Deer",
       "block.foragecraft.crabapple_log": "Crabapple Log",
       "block.foragecraft.elder_button": "Elder Button",
       "block.foragecraft.english_elm_leaves": "EnglishElm Leaves",

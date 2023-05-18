@@ -16,6 +16,7 @@ import net.minecraft.world.entity.MobCategory;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.Entity;
 
+import net.mcreator.foragecraft.entity.TestEntity;
 import net.mcreator.foragecraft.entity.RobinEntity;
 import net.mcreator.foragecraft.entity.RedSquirrelEntity;
 import net.mcreator.foragecraft.entity.MyceEntity;
@@ -51,6 +52,10 @@ public class ForagecraftModEntities {
 			EntityType.Builder.<FallowDeerEntity>of(FallowDeerEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(FallowDeerEntity::new)
 
 					.sized(0.6f, 1.8f));
+	public static final RegistryObject<EntityType<TestEntity>> TEST = register("test",
+			EntityType.Builder.<TestEntity>of(TestEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(TestEntity::new)
+
+					.sized(0.6f, 1.8f));
 
 	private static <T extends Entity> RegistryObject<EntityType<T>> register(String registryname, EntityType.Builder<T> entityTypeBuilder) {
 		return REGISTRY.register(registryname, () -> (EntityType<T>) entityTypeBuilder.build(registryname));
@@ -65,6 +70,7 @@ public class ForagecraftModEntities {
 			RedSquirrelEntity.init();
 			RobinEntity.init();
 			FallowDeerEntity.init();
+			TestEntity.init();
 		});
 	}
 
@@ -76,5 +82,6 @@ public class ForagecraftModEntities {
 		event.put(RED_SQUIRREL.get(), RedSquirrelEntity.createAttributes().build());
 		event.put(ROBIN.get(), RobinEntity.createAttributes().build());
 		event.put(FALLOW_DEER.get(), FallowDeerEntity.createAttributes().build());
+		event.put(TEST.get(), TestEntity.createAttributes().build());
 	}
 }

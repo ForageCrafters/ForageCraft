@@ -9661,6 +9661,63 @@
         ]
       },
       "path": "~/Trees/Alder"
+    },
+    {
+      "name": "FallowDeer",
+      "type": "livingentity",
+      "sortid": 658,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fallow_deer",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/foragecraft/forge/biome_modifier/fallow_deer_biome_modifier.json",
+          "src/main/java/net/mcreator/foragecraft/entity/FallowDeerEntity.java",
+          "src/main/resources/assets/foragecraft/models/item/fallow_deer_spawn_egg.json",
+          "src/main/java/net/mcreator/foragecraft/client/renderer/FallowDeerRenderer.java"
+        ]
+      },
+      "path": "~/Mobs"
+    },
+    {
+      "name": "Test",
+      "type": "animatedentity",
+      "sortid": 659,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/foragecraft/models/item/test_spawn_egg.json",
+          "src/main/java/net/mcreator/foragecraft/entity/TestEntity.java",
+          "src/main/resources/data/foragecraft/forge/biome_modifier/test_biome_modifier.json",
+          "src/main/java/net/mcreator/foragecraft/client/renderer/TestRenderer.java",
+          "src/main/java/net/mcreator/foragecraft/entity/model/TestModel.java"
+        ]
+      }
+    },
+    {
+      "name": "TestDeerEat",
+      "type": "procedure",
+      "sortid": 660,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_deer_eat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/foragecraft/procedures/TestDeerEatProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -9708,6 +9765,7 @@
       "block.foragecraft.wych_elm_fence": "WychElm Fence",
       "block.foragecraft.downy_birch_fence_gate": "DownyBirch Fence Gate",
       "block.foragecraft.goat_willow_fence": "GoatWillow Fence",
+      "item.foragecraft.fallow_deer_spawn_egg": "Fallow Deer Spawn Egg",
       "block.foragecraft.wild_cherry_button": "WildCherry Button",
       "block.foragecraft.spindle_slab": "Spindle Slab",
       "block.foragecraft.yew_fence_gate": "Yew Fence Gate",
@@ -9826,6 +9884,7 @@
       "block.foragecraft.wild_cherry_wood": "WildCherry Wood",
       "block.foragecraft.whitebeam_pressure_plate": "Whitebeam Pressure Plate",
       "block.foragecraft.rowan_stairs": "Rowan Stairs",
+      "entity.foragecraft.test": "Test",
       "item.foragecraft.red_squirrel_spawn_egg": "Red Squirrel Spawn Egg",
       "block.foragecraft.wild_cherry_fence": "WildCherry Fence",
       "block.foragecraft.common_beech_wood_trapdoor": "Common Beech Wood Trapdoor",
@@ -9850,6 +9909,7 @@
       "gui.foragecraft.wicker_basket_gui.label_wicker_basket": "Wicker Basket",
       "block.foragecraft.crabapple_pressure_plate": "Crabapple Pressure Plate",
       "block.foragecraft.hornbeam_fence_gate": "Hornbeam Fence Gate",
+      "item.foragecraft.test_spawn_egg": "Test Spawn Egg",
       "block.foragecraft.downy_birch_wood": "DownyBirch Wood",
       "block.foragecraft.purging_buckthorn_pressure_plate": "PurgingBuckthorn Pressure Plate",
       "block.foragecraft.ash_leaves": "Ash Leaves",
@@ -9908,6 +9968,7 @@
       "block.foragecraft.bay_willow_log": "BayWillow Log",
       "block.foragecraft.aspen_button": "Aspen Button",
       "block.foragecraft.plymouth_pear_planks": "PlymouthPear Planks",
+      "entity.foragecraft.fallow_deer": "Fallow Deer",
       "block.foragecraft.crabapple_log": "Crabapple Log",
       "block.foragecraft.elder_button": "Elder Button",
       "block.foragecraft.english_elm_leaves": "EnglishElm Leaves",

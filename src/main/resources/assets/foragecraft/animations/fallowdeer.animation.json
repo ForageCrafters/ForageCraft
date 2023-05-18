@@ -1,0 +1,137 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"animation_length": 0.54167
+		},
+		"starteat": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 1,
+			"bones": {
+				"frontrightleg": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [-37.5, 0, 0]
+					}
+				},
+				"lowerfrontrightleg": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [75, 0, 0]
+					}
+				},
+				"frontleftleg": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [-37.5, 0, 0]
+					}
+				},
+				"lowerfrontleftleg": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [75, 0, 0]
+					}
+				},
+				"frontbody": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [20, 0, 0]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, -2, 0]
+					}
+				},
+				"HeadAndNeck": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [55, 0, 0]
+					}
+				}
+			}
+		},
+		"eating": {
+			"animation_length": 1.25,
+			"bones": {
+				"frontrightleg": {
+					"rotation": [-37.5, 0, 0]
+				},
+				"lowerfrontrightleg": {
+					"rotation": [75, 0, 0]
+				},
+				"frontleftleg": {
+					"rotation": [-37.5, 0, 0]
+				},
+				"lowerfrontleftleg": {
+					"rotation": [75, 0, 0]
+				},
+				"frontbody": {
+					"rotation": [20, 0, 0],
+					"position": [0, -2, 0]
+				},
+				"HeadAndNeck": {
+					"rotation": [55, 0, 0]
+				},
+				"jaw": {
+					"rotation": {
+						"0.0417": [20, 0, 0],
+						"0.2083": [0, 0, 0],
+						"0.375": [20, 0, 0],
+						"0.5417": [0, 0, 0],
+						"0.7083": [20, 0, 0],
+						"0.875": [0, 0, 0],
+						"1.0417": [20, 0, 0],
+						"1.2083": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"stopeat": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 1,
+			"bones": {
+				"frontrightleg": {
+					"rotation": {
+						"0.0": [-37.5, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"lowerfrontrightleg": {
+					"rotation": {
+						"0.0": [75, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"frontleftleg": {
+					"rotation": {
+						"0.0": [-37.5, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"lowerfrontleftleg": {
+					"rotation": {
+						"0.0": [75, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"frontbody": {
+					"rotation": {
+						"0.0": [20, 0, 0],
+						"1.0": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, -2, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"HeadAndNeck": {
+					"rotation": {
+						"0.0": [55, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
