@@ -1,0 +1,9 @@
+{
+  "parent": "foragecraft:custom/FlyAgaric",
+  "textures": {
+    "all": "foragecraft:blocks/flyagarictexture",
+    "particle": "foragecraft:blocks/flyagarictexture",
+    "0": "foragecraft:blocks/flyagarictexture"
+  },
+  "render_type": "cutout_mipped"
+}

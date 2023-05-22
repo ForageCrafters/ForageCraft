@@ -332,12 +332,12 @@
       "registry_name": "fly_agaric",
       "metadata": {
         "files": [
-          "src/main/resources/assets/foragecraft/models/item/fly_agaric.json",
-          "src/main/resources/assets/foragecraft/blockstates/fly_agaric.json",
-          "src/main/resources/data/foragecraft/forge/biome_modifier/fly_agaric_biome_modifier.json",
           "src/main/java/net/mcreator/foragecraft/block/FlyAgaricBlock.java",
           "src/main/resources/assets/foragecraft/models/block/fly_agaric.json",
-          "src/main/java/net/mcreator/foragecraft/world/features/plants/FlyAgaricFeature.java"
+          "src/main/resources/assets/foragecraft/blockstates/fly_agaric.json",
+          "src/main/java/net/mcreator/foragecraft/world/features/plants/FlyAgaricFeature.java",
+          "src/main/resources/assets/foragecraft/models/item/fly_agaric.json",
+          "src/main/resources/data/foragecraft/forge/biome_modifier/fly_agaric_biome_modifier.json"
         ]
       },
       "path": "~/PlantStuff/Mushrooms"
@@ -9718,6 +9718,23 @@
           }
         ]
       }
+    },
+    {
+      "name": "FlyAgaricBlock",
+      "type": "block",
+      "sortid": 661,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fly_agaric_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/foragecraft/blockstates/fly_agaric_block.json",
+          "src/main/java/net/mcreator/foragecraft/block/FlyAgaricBlockBlock.java",
+          "src/main/resources/assets/foragecraft/models/block/fly_agaric_block.json",
+          "src/main/resources/assets/foragecraft/models/item/fly_agaric_block.json"
+        ]
+      },
+      "path": "~/PlantStuff/Mushrooms"
     }
   ],
   "variable_elements": [],
@@ -9728,9 +9745,9 @@
       "block.foragecraft.yew_pressure_plate": "Yew Pressure Plate",
       "block.foragecraft.ash_stairs": "Ash Stairs",
       "block.foragecraft.arran_whitebeam_stairs": "ArranWhitebeam Stairs",
-      "block.foragecraft.field_maple_planks": "FieldMaple Planks",
-      "block.foragecraft.wych_elm_planks": "WychElm Planks",
       "block.foragecraft.common_lime_wood": "CommonLime Wood",
+      "block.foragecraft.wych_elm_planks": "WychElm Planks",
+      "block.foragecraft.field_maple_planks": "FieldMaple Planks",
       "block.foragecraft.rowan_wood": "Rowan Wood",
       "block.foragecraft.hawthornplank": "Hawthornplank",
       "item.foragecraft.myce_spawn_egg": "Myce Spawn Egg",
@@ -10042,6 +10059,7 @@
       "block.foragecraft.plymouth_pear_fence": "PlymouthPear Fence",
       "block.foragecraft.scots_pine_stairs": "ScotsPine Stairs",
       "block.foragecraft.field_maple_wood": "FieldMaple Wood",
+      "block.foragecraft.fly_agaric_block": "Fly Agaric Block",
       "block.foragecraft.purging_buckthorn_planks": "PurgingBuckthorn Planks",
       "block.foragecraft.spindle_button": "Spindle Button",
       "block.foragecraft.wych_elm_pressure_plate": "WychElm Pressure Plate",
@@ -10245,9 +10263,7 @@
     "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
-    "requiredMods": [
-      "ctm"
-    ],
+    "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [

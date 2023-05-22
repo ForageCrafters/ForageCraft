@@ -152,6 +152,7 @@ import net.mcreator.foragecraft.block.GoatWillowLeavesBlock;
 import net.mcreator.foragecraft.block.GoatWillowFenceGateBlock;
 import net.mcreator.foragecraft.block.GoatWillowFenceBlock;
 import net.mcreator.foragecraft.block.GoatWillowButtonBlock;
+import net.mcreator.foragecraft.block.FlyAgaricBlockBlock;
 import net.mcreator.foragecraft.block.FlyAgaricBlock;
 import net.mcreator.foragecraft.block.FieldMapleWoodBlock;
 import net.mcreator.foragecraft.block.FieldMapleStairsBlock;
@@ -602,4 +603,5 @@ public class ForagecraftModBlocks {
 	public static final RegistryObject<Block> BLUEBELLS = REGISTRY.register("bluebells", () -> new BluebellsBlock());
 	public static final RegistryObject<Block> ALDER_LEAVES = REGISTRY.register("alder_leaves", () -> new AlderLeavesBlock());
 	public static final RegistryObject<Block> ALDER_WOOD_PLANKS = REGISTRY.register("alder_wood_planks", () -> new AlderWoodPlanksBlock());
+	public static final RegistryObject<Block> FLY_AGARIC_BLOCK = REGISTRY.register("fly_agaric_block", () -> new FlyAgaricBlockBlock());
 }
