@@ -1,8 +1,9 @@
 {
-  "parent": "block/cross",
+  "parent": "foragecraft:custom/FlyAgaric",
   "textures": {
-    "cross": "foragecraft:blocks/amanitamuscaria",
-    "particle": "foragecraft:blocks/amanitamuscaria"
+    "all": "foragecraft:blocks/flyagarictexture",
+    "particle": "foragecraft:blocks/flyagarictexture",
+    "0": "foragecraft:blocks/flyagarictexture"
   },
   "render_type": "cutout"
 }

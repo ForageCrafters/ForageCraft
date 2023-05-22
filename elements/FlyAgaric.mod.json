@@ -2,10 +2,10 @@
   "_fv": 39,
   "_type": "plant",
   "definition": {
-    "renderType": 12,
-    "texture": "amanitamuscaria",
+    "renderType": 2,
+    "texture": "flyagarictexture",
     "textureBottom": "",
-    "customModelName": "Cross model",
+    "customModelName": "FlyAgaric:default",
     "itemTexture": "",
     "particleTexture": "",
     "tintType": "No tint",
