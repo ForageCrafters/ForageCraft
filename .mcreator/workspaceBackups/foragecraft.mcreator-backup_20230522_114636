@@ -10246,9 +10246,7 @@
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
-    "dependencies": [
-      "ctm"
-    ],
+    "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [
       "geckolib"
